@@ -1,4 +1,5 @@
-# Proyek-Mini-UTS
+# 💱 Sistem Konversi Mata Uang (Python)
+
 Program ini digunakan untuk mengonversi jumlah uang dalam Rupiah (IDR) ke beberapa mata uang asing, yaitu:
 - USD (Dollar Amerika)
 - SGD (Dollar Singapura)
@@ -16,6 +17,7 @@ User memasukkan jumlah uang dalam IDR, kemudian program otomatis menghitung nila
 
 ### 💻 Contoh Kode Program
 
+```python
 # Sistem Konversi Mata Uang
 
 mata_uang = ["USD", "SGD", "EUR"]
@@ -32,4 +34,3 @@ for m in mata_uang:
     elif m == "EUR":
         hasil = idr / kurs_eur
     print(f"{m}: {hasil:.2f}")
-
