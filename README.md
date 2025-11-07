@@ -34,3 +34,8 @@ for m in mata_uang:
     elif m == "EUR":
         hasil = idr / kurs_eur
     print(f"{m}: {hasil:.2f}")
+<p align="center">
+  <b>📸 Screenshot Program</b><br>
+  <img src="img/tampilan.png" width="500">
+</p>
+
