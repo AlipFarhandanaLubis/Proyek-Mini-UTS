@@ -32,4 +32,4 @@ for m in mata_uang:
     elif m == "EUR":
         hasil = idr / kurs_eur
     print(f"{m}: {hasil:.2f}")
-![WhatsApp Image 2025-11-07 at 22 32 54_cf92a68a uts](https://github.com/user-attachments/assets/0cc31ed4-5610-4ade-b10d-39cf6003fff9)
+
