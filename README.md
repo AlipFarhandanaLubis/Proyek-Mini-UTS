@@ -15,27 +15,8 @@ User memasukkan jumlah uang dalam IDR, kemudian program otomatis menghitung nila
 | SGD      | 11.000           |
 | EUR      | 16.000           |
 
-### 💻 Contoh Kode Program
+### 💻 Schreenshoot
 
-```python
-# Sistem Konversi Mata Uang
+![WhatsApp Image 2025-11-07 at 22 32 54_cf92a68a uts](https://github.com/user-attachments/assets/0859455f-78fc-4649-aae3-023b4ae9f2c1)
 
-mata_uang = ["USD", "SGD", "EUR"]
-kurs_usd = 15000
-kurs_sgd = 11000
-kurs_eur = 16000
-
-idr = int(input("Masukkan jumlah uang dalam IDR: "))
-for m in mata_uang:
-    if m == "USD":
-        hasil = idr / kurs_usd
-    elif m == "SGD":
-        hasil = idr / kurs_sgd
-    elif m == "EUR":
-        hasil = idr / kurs_eur
-    print(f"{m}: {hasil:.2f}")
-<p align="center">
-  <b>📸 Screenshot Program</b><br>
-  <img src="img/tampilan.png" width="500">
-</p>
 
