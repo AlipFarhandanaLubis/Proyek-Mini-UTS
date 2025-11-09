@@ -1,19 +1,39 @@
-# 💱 Sistem Konversi Mata Uang (Python)
+# TUGAS INDIVIDU STRUKTUR KONTROL PYTHON
 
-Program ini digunakan untuk mengonversi jumlah uang dalam Rupiah (IDR) ke beberapa mata uang asing, yaitu:
-- USD (Dollar Amerika)
-- SGD (Dollar Singapura)
-- EUR (Euro)
+## Identitas
+- Nama: **Alip Farhandana Lubis**
+- NIM: **2410017514004**
+- Kelas: **A**
 
-### 📌 Cara Kerja Program
-User memasukkan jumlah uang dalam IDR, kemudian program otomatis menghitung nilai konversi berdasarkan kurs yang telah ditentukan.
+## Studi Kasus
+Program ini digunakan untuk mengonversi nilai uang dari Rupiah (IDR) ke beberapa mata uang asing tertentu berdasarkan kurs tetap. Pengguna memasukkan jumlah uang dalam Rupiah, lalu program akan menampilkan hasil konversinya ke Dollar Amerika (USD), Dollar Singapura (SGD), dan Euro (EUR).
 
-### 🧮 Kurs yang Digunakan
-| Mata Uang | Nilai Kurs (IDR) |
-|----------|------------------|
-| USD      | 15.000           |
-| SGD      | 11.000           |
-| EUR      | 16.000           |
+## Fitur Program
+- [✓] Input jumlah uang dalam IDR
+- [✓] Konversi ke USD
+- [✓] Konversi ke SGD
+- [✓] Konversi ke EUR
+
+## Teknik yang Digunakan
+- [✓] Input
+- [ ] While Loop
+- [ ] Do-While Pattern
+- [ ] For Loop
+- [✓] Nesting If
+
+## Screenshot Output
+(Upload screenshot program dijalankan di sini)
+
+Contoh:
+![Screenshot Program](https://github.com/user-attachments/assets/0859455f-78fc-4649-aae3-023b4ae9f2c1)
+
+## Cara Menjalankan
+1. Download file `konversi_mata_uang.py`
+2. Buka terminal / cmd
+3. Jalankan perintah:
+   ```bash
+   python konversi_mata_uang.py
+
 
 ### 💻 Schreenshoot
 
