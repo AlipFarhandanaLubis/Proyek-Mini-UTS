@@ -21,11 +21,7 @@ Program ini digunakan untuk mengonversi nilai uang dari Rupiah (IDR) ke beberapa
 - [ ] For Loop
 - [✓] Nesting If
 
-## Screenshot Output
-(Upload screenshot program dijalankan di sini)
 
-Contoh:
-![Screenshot Program](https://github.com/user-attachments/assets/0859455f-78fc-4649-aae3-023b4ae9f2c1)
 
 ## Cara Menjalankan
 1. Download file `konversi_mata_uang.py`
